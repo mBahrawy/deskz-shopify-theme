@@ -1,2 +1,3 @@
-# deskz-shopify-theme
-This repo for working on desks shopify theme 
+# Development of Deskz Shopify theme
+----------------------------
+[x] Original Debut theme upload 
